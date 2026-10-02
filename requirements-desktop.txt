@@ -1,0 +1,5 @@
+-r requirements.txt
+pywebview>=5.0
+qtpy
+PyQt6
+PyQt6-WebEngine
