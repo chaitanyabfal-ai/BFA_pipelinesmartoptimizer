@@ -1,2 +1,3 @@
-2026/10/02-10:27:17.523 2757 Creating DB /home/bfa/BFA_Pipeline_Smart_Optimizer/.webview_profile/Session Storage since it was missing.
-2026/10/02-10:27:17.532 2757 Reusing MANIFEST /home/bfa/BFA_Pipeline_Smart_Optimizer/.webview_profile/Session Storage/MANIFEST-000001
+2026/10/03-13:28:52.018 a019 Reusing MANIFEST /home/bfa/BFA_Pipeline_Smart_Optimizer/.webview_profile/Session Storage/MANIFEST-000001
+2026/10/03-13:28:52.019 a019 Recovering log #3
+2026/10/03-13:28:52.019 a019 Reusing old log /home/bfa/BFA_Pipeline_Smart_Optimizer/.webview_profile/Session Storage/000003.log 
